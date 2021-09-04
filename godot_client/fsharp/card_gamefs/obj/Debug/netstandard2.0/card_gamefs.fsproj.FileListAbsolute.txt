@@ -1,0 +1,12 @@
+/home/lenscas/code/card_game/godot_client/fsharp/card_gamefs/bin/Debug/netstandard2.0/card_gamefs.deps.json
+/home/lenscas/code/card_game/godot_client/fsharp/card_gamefs/bin/Debug/netstandard2.0/card_gamefs.dll
+/home/lenscas/code/card_game/godot_client/fsharp/card_gamefs/bin/Debug/netstandard2.0/card_gamefs.pdb
+/home/lenscas/code/card_game/godot_client/fsharp/card_gamefs/bin/Debug/netstandard2.0/GodotSharp.dll
+/home/lenscas/code/card_game/godot_client/fsharp/card_gamefs/bin/Debug/netstandard2.0/GodotSharp.pdb
+/home/lenscas/code/card_game/godot_client/fsharp/card_gamefs/bin/Debug/netstandard2.0/GodotSharp.xml
+/home/lenscas/code/card_game/godot_client/fsharp/card_gamefs/obj/Debug/netstandard2.0/card_gamefs.fsprojAssemblyReference.cache
+/home/lenscas/code/card_game/godot_client/fsharp/card_gamefs/obj/Debug/netstandard2.0/card_gamefs.AssemblyInfoInputs.cache
+/home/lenscas/code/card_game/godot_client/fsharp/card_gamefs/obj/Debug/netstandard2.0/card_gamefs.AssemblyInfo.fs
+/home/lenscas/code/card_game/godot_client/fsharp/card_gamefs/obj/Debug/netstandard2.0/card_gamefs.fsproj.CopyComplete
+/home/lenscas/code/card_game/godot_client/fsharp/card_gamefs/obj/Debug/netstandard2.0/card_gamefs.dll
+/home/lenscas/code/card_game/godot_client/fsharp/card_gamefs/obj/Debug/netstandard2.0/card_gamefs.pdb

@@ -1,0 +1,115 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/lenscas/code/card_game/godot_client/Godot Client.csproj": {}
+  },
+  "projects": {
+    "/home/lenscas/code/card_game/godot_client/Godot Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/lenscas/code/card_game/godot_client/Godot Client.csproj",
+        "projectName": "Godot Client",
+        "projectPath": "/home/lenscas/code/card_game/godot_client/Godot Client.csproj",
+        "packagesPath": "/home/lenscas/.nuget/packages/",
+        "outputPath": "/home/lenscas/code/card_game/godot_client/.mono/temp/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/lenscas/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {
+              "/home/lenscas/code/card_game/godot_client/fsharp/card_gamefs/card_gamefs.fsproj": {
+                "projectPath": "/home/lenscas/code/card_game/godot_client/fsharp/card_gamefs/card_gamefs.fsproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "System.Runtime": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.205/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/lenscas/code/card_game/godot_client/fsharp/card_gamefs/card_gamefs.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/lenscas/code/card_game/godot_client/fsharp/card_gamefs/card_gamefs.fsproj",
+        "projectName": "card_gamefs",
+        "projectPath": "/home/lenscas/code/card_game/godot_client/fsharp/card_gamefs/card_gamefs.fsproj",
+        "packagesPath": "/home/lenscas/.nuget/packages/",
+        "outputPath": "/home/lenscas/code/card_game/godot_client/.mono/temp/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/lenscas/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[5.0.0, )",
+              "generatePathProperty": true
+            },
+            "FSharp.Json": {
+              "target": "Package",
+              "version": "[0.4.0, )",
+              "generatePathProperty": true
+            },
+            "Ply": {
+              "target": "Package",
+              "version": "[0.3.1, )",
+              "generatePathProperty": true
+            },
+            "System.Runtime": {
+              "target": "Package",
+              "version": "[4.3.1, )",
+              "generatePathProperty": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.205/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

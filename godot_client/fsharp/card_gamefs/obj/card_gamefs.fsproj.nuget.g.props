@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">/home/lenscas/.nuget/packages/</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">/home/lenscas/.nuget/packages/;/usr/share/dotnet/sdk/NuGetFallbackFolder</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">5.8.0</NuGetToolVersion>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <SourceRoot Include="$([MSBuild]::EnsureTrailingSlash($(NuGetPackageFolders)))" />
+  </ItemGroup>
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgSystem_Runtime Condition=" '$(PkgSystem_Runtime)' == '' ">/home/lenscas/.nuget/packages/system.runtime/4.3.1</PkgSystem_Runtime>
+    <PkgFSharp_Core Condition=" '$(PkgFSharp_Core)' == '' ">/home/lenscas/.nuget/packages/fsharp.core/5.0.0</PkgFSharp_Core>
+    <PkgPly Condition=" '$(PkgPly)' == '' ">/home/lenscas/.nuget/packages/ply/0.3.1</PkgPly>
+    <PkgMicrosoft_NETFramework_ReferenceAssemblies Condition=" '$(PkgMicrosoft_NETFramework_ReferenceAssemblies)' == '' ">/home/lenscas/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.0</PkgMicrosoft_NETFramework_ReferenceAssemblies>
+    <PkgFSharp_Json Condition=" '$(PkgFSharp_Json)' == '' ">/home/lenscas/.nuget/packages/fsharp.json/0.4.0</PkgFSharp_Json>
+  </PropertyGroup>
+</Project>

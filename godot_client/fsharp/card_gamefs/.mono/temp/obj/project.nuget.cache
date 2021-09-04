@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "T1AuNYob/Gteitt1pZMxbFEC9MvsLeY427P1AjPgq4T/BTcicJsxBFjj7+9XguygC42Zp6RNB6Y2EvWSd0fy5A==",
+  "success": true,
+  "projectFilePath": "/home/lenscas/code/card_game/godot_client/fsharp/card_gamefs/card_gamefs.fsproj",
+  "expectedPackageFiles": [
+    "/home/lenscas/.nuget/packages/fsharp.core/5.0.0/fsharp.core.5.0.0.nupkg.sha512",
+    "/home/lenscas/.nuget/packages/fsharp.json/0.4.0/fsharp.json.0.4.0.nupkg.sha512",
+    "/home/lenscas/.nuget/packages/ply/0.3.1/ply.0.3.1.nupkg.sha512",
+    "/home/lenscas/.nuget/packages/system.runtime/4.3.1/system.runtime.4.3.1.nupkg.sha512",
+    "/home/lenscas/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.3/system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "/home/lenscas/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

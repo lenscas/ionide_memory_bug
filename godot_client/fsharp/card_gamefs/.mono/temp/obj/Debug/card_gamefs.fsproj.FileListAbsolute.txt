@@ -1,0 +1,3 @@
+/home/lenscas/code/card_game/godot_client/fsharp/card_gamefs/.mono/temp/obj/Debug/card_gamefs.fsprojAssemblyReference.cache
+/home/lenscas/code/card_game/godot_client/fsharp/card_gamefs/.mono/temp/obj/Debug/card_gamefs.AssemblyInfoInputs.cache
+/home/lenscas/code/card_game/godot_client/fsharp/card_gamefs/.mono/temp/obj/Debug/card_gamefs.AssemblyInfo.fs

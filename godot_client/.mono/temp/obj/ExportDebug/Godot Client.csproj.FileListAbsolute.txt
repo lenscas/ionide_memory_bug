@@ -1,0 +1,33 @@
+/home/lenscas/code/card_game/godot_client/.mono/temp/bin/ExportDebug/Godot Client.dll
+/home/lenscas/code/card_game/godot_client/.mono/temp/bin/ExportDebug/Godot Client.pdb
+/home/lenscas/code/card_game/godot_client/.mono/temp/bin/ExportDebug/FSharp.Core.dll
+/home/lenscas/code/card_game/godot_client/.mono/temp/bin/ExportDebug/FSharp.Json.dll
+/home/lenscas/code/card_game/godot_client/.mono/temp/bin/ExportDebug/System.Runtime.dll
+/home/lenscas/code/card_game/godot_client/.mono/temp/bin/ExportDebug/cs/FSharp.Core.resources.dll
+/home/lenscas/code/card_game/godot_client/.mono/temp/bin/ExportDebug/de/FSharp.Core.resources.dll
+/home/lenscas/code/card_game/godot_client/.mono/temp/bin/ExportDebug/es/FSharp.Core.resources.dll
+/home/lenscas/code/card_game/godot_client/.mono/temp/bin/ExportDebug/fr/FSharp.Core.resources.dll
+/home/lenscas/code/card_game/godot_client/.mono/temp/bin/ExportDebug/it/FSharp.Core.resources.dll
+/home/lenscas/code/card_game/godot_client/.mono/temp/bin/ExportDebug/ja/FSharp.Core.resources.dll
+/home/lenscas/code/card_game/godot_client/.mono/temp/bin/ExportDebug/ko/FSharp.Core.resources.dll
+/home/lenscas/code/card_game/godot_client/.mono/temp/bin/ExportDebug/pl/FSharp.Core.resources.dll
+/home/lenscas/code/card_game/godot_client/.mono/temp/bin/ExportDebug/pt-BR/FSharp.Core.resources.dll
+/home/lenscas/code/card_game/godot_client/.mono/temp/bin/ExportDebug/ru/FSharp.Core.resources.dll
+/home/lenscas/code/card_game/godot_client/.mono/temp/bin/ExportDebug/tr/FSharp.Core.resources.dll
+/home/lenscas/code/card_game/godot_client/.mono/temp/bin/ExportDebug/zh-Hans/FSharp.Core.resources.dll
+/home/lenscas/code/card_game/godot_client/.mono/temp/bin/ExportDebug/zh-Hant/FSharp.Core.resources.dll
+/home/lenscas/code/card_game/godot_client/.mono/temp/bin/ExportDebug/card_gamefs.dll
+/home/lenscas/code/card_game/godot_client/.mono/temp/bin/ExportDebug/GodotSharp.dll
+/home/lenscas/code/card_game/godot_client/.mono/temp/bin/ExportDebug/card_gamefs.pdb
+/home/lenscas/code/card_game/godot_client/.mono/temp/bin/ExportDebug/GodotSharp.pdb
+/home/lenscas/code/card_game/godot_client/.mono/temp/bin/ExportDebug/GodotSharp.xml
+/home/lenscas/code/card_game/godot_client/.mono/temp/obj/ExportDebug/Godot Client.csprojAssemblyReference.cache
+/home/lenscas/code/card_game/godot_client/.mono/temp/obj/ExportDebug/Godot Client.AssemblyInfoInputs.cache
+/home/lenscas/code/card_game/godot_client/.mono/temp/obj/ExportDebug/Godot Client.AssemblyInfo.cs
+/home/lenscas/code/card_game/godot_client/.mono/temp/obj/ExportDebug/Godot Client.csproj.CopyComplete
+/home/lenscas/code/card_game/godot_client/.mono/temp/obj/ExportDebug/Godot Client.dll
+/home/lenscas/code/card_game/godot_client/.mono/temp/obj/ExportDebug/Godot Client.pdb
+/home/lenscas/code/card_game/godot_client/.mono/temp/bin/ExportDebug/Ply.dll
+/home/lenscas/code/card_game/godot_client/.mono/temp/bin/ExportDebug/System.Runtime.CompilerServices.Unsafe.dll
+/home/lenscas/code/card_game/godot_client/.mono/temp/bin/ExportDebug/System.Threading.Tasks.Extensions.dll
+/home/lenscas/code/card_game/godot_client/.mono/temp/obj/ExportDebug/Godot Client.csproj.CoreCompileInputs.cache

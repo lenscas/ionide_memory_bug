@@ -1,0 +1,16 @@
+/home/lenscas/code/card_game/godot_client/.mono/temp/obj/Debug/card_gamefs.fsprojAssemblyReference.cache
+/home/lenscas/code/card_game/godot_client/.mono/temp/obj/Debug/card_gamefs.AssemblyInfoInputs.cache
+/home/lenscas/code/card_game/godot_client/.mono/temp/obj/Debug/card_gamefs.AssemblyInfo.fs
+/home/lenscas/code/card_game/godot_client/.mono/temp/bin/Debug/card_gamefs.dll
+/home/lenscas/code/card_game/godot_client/.mono/temp/bin/Debug/card_gamefs.pdb
+/home/lenscas/code/card_game/godot_client/.mono/temp/obj/Debug/card_gamefs.fsproj.CopyComplete
+/home/lenscas/code/card_game/godot_client/.mono/temp/obj/Debug/card_gamefs.dll
+/home/lenscas/code/card_game/godot_client/.mono/temp/obj/Debug/card_gamefs.pdb
+/home/lenscas/code/godot_client_test/godot_client/.mono/temp/bin/Debug/card_gamefs.dll
+/home/lenscas/code/godot_client_test/godot_client/.mono/temp/bin/Debug/card_gamefs.pdb
+/home/lenscas/code/godot_client_test/godot_client/.mono/temp/obj/Debug/card_gamefs.fsprojAssemblyReference.cache
+/home/lenscas/code/godot_client_test/godot_client/.mono/temp/obj/Debug/card_gamefs.AssemblyInfoInputs.cache
+/home/lenscas/code/godot_client_test/godot_client/.mono/temp/obj/Debug/card_gamefs.AssemblyInfo.fs
+/home/lenscas/code/godot_client_test/godot_client/.mono/temp/obj/Debug/card_gamefs.fsproj.CopyComplete
+/home/lenscas/code/godot_client_test/godot_client/.mono/temp/obj/Debug/card_gamefs.dll
+/home/lenscas/code/godot_client_test/godot_client/.mono/temp/obj/Debug/card_gamefs.pdb

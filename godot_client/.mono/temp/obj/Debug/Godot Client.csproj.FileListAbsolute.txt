@@ -1,0 +1,64 @@
+/home/lenscas/code/card_game/godot_client/.mono/temp/obj/Debug/Godot Client.csprojAssemblyReference.cache
+/home/lenscas/code/card_game/godot_client/.mono/temp/obj/Debug/Godot Client.AssemblyInfoInputs.cache
+/home/lenscas/code/card_game/godot_client/.mono/temp/obj/Debug/Godot Client.AssemblyInfo.cs
+/home/lenscas/code/card_game/godot_client/.mono/temp/bin/Debug/Godot Client.dll
+/home/lenscas/code/card_game/godot_client/.mono/temp/bin/Debug/Godot Client.pdb
+/home/lenscas/code/card_game/godot_client/.mono/temp/bin/Debug/FSharp.Core.dll
+/home/lenscas/code/card_game/godot_client/.mono/temp/bin/Debug/cs/FSharp.Core.resources.dll
+/home/lenscas/code/card_game/godot_client/.mono/temp/bin/Debug/de/FSharp.Core.resources.dll
+/home/lenscas/code/card_game/godot_client/.mono/temp/bin/Debug/es/FSharp.Core.resources.dll
+/home/lenscas/code/card_game/godot_client/.mono/temp/bin/Debug/fr/FSharp.Core.resources.dll
+/home/lenscas/code/card_game/godot_client/.mono/temp/bin/Debug/it/FSharp.Core.resources.dll
+/home/lenscas/code/card_game/godot_client/.mono/temp/bin/Debug/ja/FSharp.Core.resources.dll
+/home/lenscas/code/card_game/godot_client/.mono/temp/bin/Debug/ko/FSharp.Core.resources.dll
+/home/lenscas/code/card_game/godot_client/.mono/temp/bin/Debug/pl/FSharp.Core.resources.dll
+/home/lenscas/code/card_game/godot_client/.mono/temp/bin/Debug/pt-BR/FSharp.Core.resources.dll
+/home/lenscas/code/card_game/godot_client/.mono/temp/bin/Debug/ru/FSharp.Core.resources.dll
+/home/lenscas/code/card_game/godot_client/.mono/temp/bin/Debug/tr/FSharp.Core.resources.dll
+/home/lenscas/code/card_game/godot_client/.mono/temp/bin/Debug/zh-Hans/FSharp.Core.resources.dll
+/home/lenscas/code/card_game/godot_client/.mono/temp/bin/Debug/zh-Hant/FSharp.Core.resources.dll
+/home/lenscas/code/card_game/godot_client/.mono/temp/bin/Debug/card_gamefs.pdb
+/home/lenscas/code/card_game/godot_client/.mono/temp/obj/Debug/Godot Client.csproj.CopyComplete
+/home/lenscas/code/card_game/godot_client/.mono/temp/obj/Debug/Godot Client.dll
+/home/lenscas/code/card_game/godot_client/.mono/temp/obj/Debug/Godot Client.pdb
+/home/lenscas/code/card_game/godot_client/.mono/temp/bin/Debug/System.Runtime.dll
+/home/lenscas/code/card_game/godot_client/.mono/temp/bin/Debug/GodotSharp.dll
+/home/lenscas/code/card_game/godot_client/.mono/temp/bin/Debug/GodotSharp.pdb
+/home/lenscas/code/card_game/godot_client/.mono/temp/bin/Debug/GodotSharp.xml
+/home/lenscas/code/card_game/godot_client/.mono/temp/bin/Debug/FSharp.Json.dll
+/home/lenscas/code/card_game/godot_client/.mono/temp/bin/Debug/Ply.dll
+/home/lenscas/code/card_game/godot_client/.mono/temp/bin/Debug/System.Runtime.CompilerServices.Unsafe.dll
+/home/lenscas/code/card_game/godot_client/.mono/temp/bin/Debug/System.Threading.Tasks.Extensions.dll
+/home/lenscas/code/card_game/godot_client/.mono/temp/obj/Debug/Godot Client.csproj.CoreCompileInputs.cache
+/home/lenscas/code/godot_client_test/godot_client/.mono/temp/bin/Debug/Godot Client.dll
+/home/lenscas/code/godot_client_test/godot_client/.mono/temp/bin/Debug/Godot Client.pdb
+/home/lenscas/code/godot_client_test/godot_client/.mono/temp/bin/Debug/FSharp.Core.dll
+/home/lenscas/code/godot_client_test/godot_client/.mono/temp/bin/Debug/FSharp.Json.dll
+/home/lenscas/code/godot_client_test/godot_client/.mono/temp/bin/Debug/Ply.dll
+/home/lenscas/code/godot_client_test/godot_client/.mono/temp/bin/Debug/System.Runtime.dll
+/home/lenscas/code/godot_client_test/godot_client/.mono/temp/bin/Debug/System.Runtime.CompilerServices.Unsafe.dll
+/home/lenscas/code/godot_client_test/godot_client/.mono/temp/bin/Debug/System.Threading.Tasks.Extensions.dll
+/home/lenscas/code/godot_client_test/godot_client/.mono/temp/bin/Debug/cs/FSharp.Core.resources.dll
+/home/lenscas/code/godot_client_test/godot_client/.mono/temp/bin/Debug/de/FSharp.Core.resources.dll
+/home/lenscas/code/godot_client_test/godot_client/.mono/temp/bin/Debug/es/FSharp.Core.resources.dll
+/home/lenscas/code/godot_client_test/godot_client/.mono/temp/bin/Debug/fr/FSharp.Core.resources.dll
+/home/lenscas/code/godot_client_test/godot_client/.mono/temp/bin/Debug/it/FSharp.Core.resources.dll
+/home/lenscas/code/godot_client_test/godot_client/.mono/temp/bin/Debug/ja/FSharp.Core.resources.dll
+/home/lenscas/code/godot_client_test/godot_client/.mono/temp/bin/Debug/ko/FSharp.Core.resources.dll
+/home/lenscas/code/godot_client_test/godot_client/.mono/temp/bin/Debug/pl/FSharp.Core.resources.dll
+/home/lenscas/code/godot_client_test/godot_client/.mono/temp/bin/Debug/pt-BR/FSharp.Core.resources.dll
+/home/lenscas/code/godot_client_test/godot_client/.mono/temp/bin/Debug/ru/FSharp.Core.resources.dll
+/home/lenscas/code/godot_client_test/godot_client/.mono/temp/bin/Debug/tr/FSharp.Core.resources.dll
+/home/lenscas/code/godot_client_test/godot_client/.mono/temp/bin/Debug/zh-Hans/FSharp.Core.resources.dll
+/home/lenscas/code/godot_client_test/godot_client/.mono/temp/bin/Debug/zh-Hant/FSharp.Core.resources.dll
+/home/lenscas/code/godot_client_test/godot_client/.mono/temp/bin/Debug/GodotSharp.dll
+/home/lenscas/code/godot_client_test/godot_client/.mono/temp/bin/Debug/card_gamefs.pdb
+/home/lenscas/code/godot_client_test/godot_client/.mono/temp/bin/Debug/GodotSharp.pdb
+/home/lenscas/code/godot_client_test/godot_client/.mono/temp/bin/Debug/GodotSharp.xml
+/home/lenscas/code/godot_client_test/godot_client/.mono/temp/obj/Debug/Godot Client.csprojAssemblyReference.cache
+/home/lenscas/code/godot_client_test/godot_client/.mono/temp/obj/Debug/Godot Client.AssemblyInfoInputs.cache
+/home/lenscas/code/godot_client_test/godot_client/.mono/temp/obj/Debug/Godot Client.AssemblyInfo.cs
+/home/lenscas/code/godot_client_test/godot_client/.mono/temp/obj/Debug/Godot Client.csproj.CoreCompileInputs.cache
+/home/lenscas/code/godot_client_test/godot_client/.mono/temp/obj/Debug/Godot Client.csproj.CopyComplete
+/home/lenscas/code/godot_client_test/godot_client/.mono/temp/obj/Debug/Godot Client.dll
+/home/lenscas/code/godot_client_test/godot_client/.mono/temp/obj/Debug/Godot Client.pdb
